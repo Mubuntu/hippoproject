@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: cvocrescendo project CMS
+Implementation-Version: 0.1.0-SNAPSHOT
+Built-By: Patrick
+Project-Build: 2018-05-07T09:56:54Z
+Implementation-Vendor-Id: be.cornetto
+Project-Version: 0.1.0-SNAPSHOT
+Hippo-Release-Version: 12.2.0
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_172
+Implementation-URL: 
+Implementation-Vendor: 
+

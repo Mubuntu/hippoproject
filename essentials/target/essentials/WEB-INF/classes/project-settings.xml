@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>hippoproject</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>be.cornetto</selectedProjectPackage>
+  <selectedBeansPackage>be.cornetto.beans</selectedBeansPackage>
+  <selectedComponentsPackage>be.cornetto.components</selectedComponentsPackage>
+  <selectedRestPackage>be.cornetto.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>

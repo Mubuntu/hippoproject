@@ -1,0 +1,5 @@
+group: 
+  name: hippoproject
+  after: hippo-cms
+project: hippoproject
+module: hippoproject-repository-data-webfiles
